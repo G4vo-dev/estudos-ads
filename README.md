@@ -11,3 +11,5 @@ Sempre que dá, ligo a matéria aos meus projetos de bot de WhatsApp.
 - Lógica e algoritmos
 - Redes
 
+- estatisticas
+
