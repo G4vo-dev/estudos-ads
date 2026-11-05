@@ -13,3 +13,9 @@ WHERE inicio LIKE '%2026-11-10%';
 SELECT status, COUNT(*) AS total
 FROM agendamentos
 GROUP BY status;
+
+-- Desafio 4: faturamento dos agendamentos concluídos (em reais)
+SELECT SUM(s.preco_centavos) / 100.0 AS faturamento
+FROM agendamentos a
+JOIN servicos s ON s.id = a.servico_id
+WHERE a.status = 'concluido';
