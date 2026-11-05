@@ -19,3 +19,13 @@ SELECT SUM(s.preco_centavos) / 100.0 AS faturamento
 FROM agendamentos a
 JOIN servicos s ON s.id = a.servico_id
 WHERE a.status = 'concluido';
+
+-- Bônus: Bruno foi atendido
+UPDATE agendamentos
+SET status = 'concluido'
+WHERE id = 2;
+
+SELECT SUM(s.preco_centavos) / 100.0 AS faturamento
+FROM agendamentos a
+JOIN servicos s ON s.id = a.servico_id
+WHERE a.status = 'concluido';
