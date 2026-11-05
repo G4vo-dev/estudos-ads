@@ -10,4 +10,4 @@ Sempre que dá, ligo a matéria aos meus projetos de bot de WhatsApp.
 - Engenharia de software
 - Lógica e algoritmos
 - Redes
--Estatística
+- Estatística
