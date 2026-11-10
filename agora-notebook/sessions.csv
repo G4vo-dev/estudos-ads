@@ -1,1 +1,2 @@
 date,week,mode,min_planned,min_actual,topic,recall_ok,recall_total,prediction_pct,l1,l2,l3,l4,l5,max_hint,ref_level,min_to_solution,explanation,transfer,questions,sleep_h,energy,notes
+2026-11-10,1,micro (atenção; fretado; acordou tarde),10,15,"Python: entrada, conversão, precedência, tipos de erro",2,4,60,0,1,0,0,0,H0,L2,5,,,,10,4,"Recall 50% (previsão 60%, gap 10). Problema no celular trocado por caça ao bug: achou os 2 erros e corrigiu a média; hesitou entre semântica e lógica; teste 7,7,7 não muda a decisão. Minutos estimados."
