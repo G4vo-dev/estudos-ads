@@ -8,6 +8,7 @@ Objetivo de fundo do semestre: passar nas 4 matérias com média ≥ 70.
 
 Tempo: sessões Ágora de Lógica na terça e na sexta, das 8h às 9h50 (formato de 60 min do modo atenção dentro dos 2 blocos); cartões FSRS no ônibus (11h15, de segunda a sexta); supervisão no domingo às 9h (dentro da revisão semanal). As outras 3 matérias seguem a rotina normal do caderno.
 Datas-chave: APOL 1 de 16/11 a 14/12 (meta: 06/12) · APOL 2 de 14/12 a 18/01 (meta: 03/01) · prova mista no polo de 25/01 a 01/03/27 (AGENDAR) · Natal: 25/12.
+Cópia no Drive (faculdade/5. 🧠 Ágora): o Diário do Ágora é atualizado a cada sessão; os arquivos .md/.csv são substituídos TODO DOMINGO na revisão (autorizado pelo aluno em 10/11: apagar as cópias antigas e subir as novas).
 Discute com: só o Claude. Feedback externo pelo menos 1 vez por mês: tutoria do AVA ou fórum da disciplina.
 
 Diagnóstico (data, formato, atraso da evocação): PENDENTE — formato de 3 dias (obrigatório no modo atenção). Proposta: Dia 1 = dom 15/11, 9h (B0–B3) · Dia 2 = seg 16/11, 8h (B6 com 24 h + B4 + B7) · Dia 3 = ter 17/11, 8h (B5 + B8 + B9).
