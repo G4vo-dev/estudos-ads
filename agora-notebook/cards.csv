@@ -1,0 +1,6 @@
+id,topic,question,answer_key,source,created,due,stability,difficulty,last_review,reps,lapses,box
+C001,Python: entrada,"Por que nota = input() seguido de nota / 2 dá erro? Como corrigir?","input() devolve STRING; dividir texto dá TypeError (semântica). Corrigir CONVERTENDO: nota = float(input())",Web Aula Prática 1,2026-11-10,2026-11-10,,,,0,0,
+C002,Python: precedência,"Quanto vale 4 + 6 / 2 em Python, e por quê? Como escrever a média de 4 e 6?","7.0, porque / é feito antes de +. Média = (4 + 6) / 2 = 5.0",Web Aula Prática 1,2026-11-10,2026-11-10,,,,0,0,
+C003,Tipos de erro,"Você esqueceu o recuo depois de um if:. Que erro aparece e de que tipo ele é?","IndentationError, erro de SINTAXE (regra de escrita)",Web Aula Prática 1,2026-11-10,2026-11-10,,,,0,0,
+C004,Tipos de erro,"Um programa roda sem nenhum aviso, mas aprova um aluno com média 4 e 6. Que tipo de erro é e como você o descobre?","Erro de LÓGICA: não dá aviso. Descobre testando com valores que mudam o resultado e conferindo à mão",Web Aula Prática 1,2026-11-10,2026-11-10,,,,0,0,
+C005,Compilador × interpretador,"Por que dizemos que Python é interpretado? O que muda em relação ao C?","O interpretador traduz e executa LINHA POR LINHA; o compilador (C) TRADUZ o código inteiro ANTES de executar",Web Aula 1,2026-11-10,2026-11-10,,,,0,0,
