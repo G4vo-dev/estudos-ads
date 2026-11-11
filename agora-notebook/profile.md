@@ -6,6 +6,7 @@ Perfil: universitário EAD (ADS, Uninter), trabalha em escala 6x1 | Matéria-ân
 Objetivo observável (12 semanas): ao fim, vou conseguir resolver problemas novos de Python (decisão, repetição, funções, listas e dicionários) sem ajuda, explicar e defender cada solução com o termo técnico, e vou mostrar isso com: APOL 1 e APOL 2 de Lógica ≥ 80, a discursiva da prova mista ≥ 70 e um miniprojeto em Python (módulo do bot de WhatsApp) defendido na semana 12.
 Objetivo de fundo do semestre: passar nas 4 matérias com média ≥ 70.
 
+Local de estudo: computador (celular longe, em Não perturbe); no celular só cartões e caça ao bug.
 Tempo: sessões Ágora de Lógica na terça e na sexta, das 8h às 9h50 (formato de 60 min do modo atenção dentro dos 2 blocos); cartões FSRS no ônibus (11h15, de segunda a sexta); supervisão no domingo às 9h (dentro da revisão semanal). As outras 3 matérias seguem a rotina normal do caderno.
 Datas-chave: APOL 1 de 16/11 a 14/12 (meta: 06/12) · APOL 2 de 14/12 a 18/01 (meta: 03/01) · prova mista no polo de 25/01 a 01/03/27 (AGENDAR) · Natal: 25/12.
 Cópia no Drive (faculdade/5. 🧠 Ágora): o Diário do Ágora é atualizado a cada sessão; os arquivos .md/.csv são substituídos TODO DOMINGO na revisão (autorizado pelo aluno em 10/11: apagar as cópias antigas e subir as novas).
