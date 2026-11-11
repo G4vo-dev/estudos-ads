@@ -13,7 +13,7 @@ Discute com: só o Claude. Feedback externo pelo menos 1 vez por mês: tutoria d
 
 Diagnóstico (data, formato, atraso da evocação): PENDENTE — formato de 3 dias (obrigatório no modo atenção). Proposta: Dia 1 = dom 15/11, 9h (B0–B3) · Dia 2 = seg 16/11, 8h (B6 com 24 h + B4 + B7) · Dia 3 = ter 17/11, 8h (B5 + B8 + B9).
   Leitura _ · Memória _ · Lógica _ · Problemas _ · Escrita _ · Explicação _ · Metacognição _ · Atenção _ → média _ → nível _
-Reforços (dimensões ≤ 1,5): — | Regra adaptativa ativa: nenhuma ainda (nível provisório: Intermediário até o diagnóstico)
+Reforços (dimensões ≤ 1,5): — | Regra adaptativa ativa: (10/11) recuperação < 60% → metade de conteúdo novo e o dobro de recuperação · (11/11) 2 sessões perdidas → recomeçar com a versão de 30 min + PROTOCOLO DE FOCO: ritual de início às 7h55, celular em Não perturbe, 1 tarefa por bloco de 20 min, "começar"/"feito" com o Claude (fica comigo), lista do depois, planos se-então, lembretes automáticos do Claude às 7h55 e 9h00. Nenhuma (nível provisório: Intermediário até o diagnóstico)
 
 Pontos de partida conhecidos (do caderno de estudos, 06/11 a 09/11):
 - Ponto forte: lógica e prática (aula prática de média em C e Python).
