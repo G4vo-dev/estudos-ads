@@ -1,5 +1,5 @@
 # ÁGORA — Perfil e plano
-Início: 2026-11-10 (onboarding em 2026-11-09) | Semana atual: 1 | Dia: 1 | Folga de estudo: sábado (cartões no ônibus são opcionais) | Idioma: português (BR) | Agendador: fsrs
+Início: 2026-11-10 (onboarding em 2026-11-09) | Semana atual: 1 | Dia: 2 | Folga de estudo: sábado (cartões no ônibus são opcionais) | Idioma: português (BR) | Agendador: fsrs
 Modo atenção: ligado (a pedido do aluno, desde 11/11: BLOCO ÚNICO de 2h, das 8h às 10h, por matéria, com check-in e pausa de 5 min a cada ~30 min e parada obrigatória às 10h; melhor janela de foco: 8h–10h, de segunda a sexta)
 Perfil: universitário EAD (ADS, Uninter), trabalha em escala 6x1 | Matéria-âncora: Lógica de Programação e Algoritmos (952837), em Python, com o Prof. Bruno Kostiuk | Materiais: veja sources.md
 
@@ -7,7 +7,7 @@ Objetivo observável (12 semanas): ao fim, vou conseguir resolver problemas novo
 Objetivo de fundo do semestre: passar nas 4 matérias com média ≥ 70.
 
 Local de estudo: computador (celular longe, em Não perturbe); no celular só cartões e caça ao bug.
-Semana (desde 12/11): 1 matéria por dia, das 8h às 10h · seg Web · ter Lógica · qua Produção Textual · qui Formação em EaD · sex Lógica. Esta semana: qui 12 Lógica Aula 1 · sex 13 EaD Aula 1 · seg 16 Produção Textual Aula 1.
+Semana (desde 12/11): 1 matéria por dia, das 8h às 10h · seg Web · ter Lógica · qua Produção Textual · qui Formação em EaD · sex Lógica. Esta semana: qui 12 Lógica Aula 1 (feito o Tema 1 pela apostila; o AVA deu erro 404 na videoaula) · sex 13 EaD Aula 1 · seg 16 Produção Textual Aula 1 · ter 17 Lógica: resto da Aula 1 (videoaula teórica + Temas 2 a 5) · sex 20 Lógica Aula 2.
 Tempo (versão anterior): sessões Ágora de Lógica na terça e na sexta, das 8h às 9h50 (formato de 60 min do modo atenção dentro dos 2 blocos); cartões FSRS no ônibus (11h15, de segunda a sexta); supervisão no domingo às 9h (dentro da revisão semanal). As outras 3 matérias seguem a rotina normal do caderno.
 Datas-chave: APOL 1 de 16/11 a 14/12 (meta: 06/12) · APOL 2 de 14/12 a 18/01 (meta: 03/01) · prova mista no polo de 25/01 a 01/03/27 (AGENDAR) · Natal: 25/12.
 Cópia no Drive (faculdade/5. 🧠 Ágora): o Diário do Ágora é atualizado a cada sessão; os arquivos .md/.csv são substituídos TODO DOMINGO na revisão (autorizado pelo aluno em 10/11: apagar as cópias antigas e subir as novas).
