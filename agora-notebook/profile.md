@@ -16,7 +16,7 @@ Semana (desde 17/11; manhã 8h–10h · tarde 14h–15h):
 - sáb: BUSCA DE EMPREGO (sugestão: 9h–12h; currículo, LinkedIn, portfólio, preparação para entrevistas) · sem estudo
 - dom: FOLGA
 Cartões FSRS (até 8): no começo da sessão da tarde, de segunda a sexta (não há mais ônibus). Total: cerca de 15 h de estudo por semana (antes: 10 h).
-Esta semana: ter 17 à tarde EaD Aula 1 (pendente desde 13/11; a Lógica da manhã não aconteceu) · qua 18 de manhã Produção Textual, à tarde Lógica: resto da Aula 1 (videoaula teórica + Temas 2 a 5; o que sobrar vai para sex 20 de manhã) · sex 20 Lógica Aula 2 (feriado da Consciência Negra, mas mantido).
+Esta semana: ter 17 à tarde EaD Aula 1 (pendente desde 13/11; a Lógica da manhã não aconteceu) · ter 17 às 15h15 sessão extra de Lógica (a pedido do aluno): cartões atrasados + Temas 2 e 3 da apostila · qua 18 de manhã Produção Textual, à tarde EaD Aula 2 · Temas 4 e 5 de Lógica e a videoaula teórica: sex 20 de manhã, antes da Aula 2 · sex 20 Lógica Aula 2 (feriado da Consciência Negra, mas mantido).
 Agenda do Google atualizada em 17/11 com esta rotina (a rotina antiga de 9h–10h30 e a busca de emprego das 14h nos dias úteis foram encerradas em 17/11; o exercício de seg/qua/sex às 17h foi mantido). Diagnóstico marcado na agenda: 23, 24 e 25/11 às 14h (sem EaD nesses dias).
 Semana antiga (12/11 a 16/11): 1 matéria por dia, das 8h às 10h · seg Web · ter Lógica · qua Produção Textual · qui Formação em EaD · sex Lógica; cartões no ônibus às 11h15; supervisão no domingo às 9h; folga no sábado.
 Datas-chave: APOL 1 de 16/11 a 14/12 (meta: 06/12) · APOL 2 de 14/12 a 18/01 (meta: 03/01) · prova mista no polo de 25/01 a 01/03/27 (AGENDAR) · Natal: 25/12.
