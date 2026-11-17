@@ -1,19 +1,28 @@
 # ÁGORA — Perfil e plano
-Início: 2026-11-10 (onboarding em 2026-11-09) | Semana atual: 1 | Dia: 2 | Folga de estudo: sábado (cartões no ônibus são opcionais) | Idioma: português (BR) | Agendador: fsrs
-Modo atenção: ligado (a pedido do aluno, desde 11/11: BLOCO ÚNICO de 2h, das 8h às 10h, por matéria, com check-in e pausa de 5 min a cada ~30 min e parada obrigatória às 10h; melhor janela de foco: 8h–10h, de segunda a sexta)
-Perfil: universitário EAD (ADS, Uninter), trabalha em escala 6x1 | Matéria-âncora: Lógica de Programação e Algoritmos (952837), em Python, com o Prof. Bruno Kostiuk | Materiais: veja sources.md
+Início: 2026-11-10 (onboarding em 2026-11-09) | Semana atual: 2 | Dia: 1 | Folga: domingo (dia inteiro, sem estudo; desde 17/11) | Busca de emprego: quinta e sábado (sem estudo; cartões opcionais) | Idioma: português (BR) | Agendador: fsrs
+Modo atenção: ligado (a pedido do aluno, desde 11/11: BLOCO ÚNICO de 2h, das 8h às 10h, por matéria, com check-in e pausa de 5 min a cada ~30 min e parada obrigatória às 10h; melhor janela de foco: 8h–10h. Desde 17/11, mais uma sessão de 60 min à tarde, das 14h às 15h, no formato de 60 min do modo atenção, só nos dias de estudo. Teto do dia: 180 min)
+Perfil: universitário EAD (ADS, Uninter); saiu do emprego no laboratório em nov/2026 e procura estágio em back-end (antes: escala 6x1) | Matéria-âncora: Lógica de Programação e Algoritmos (952837), em Python, com o Prof. Bruno Kostiuk | Materiais: veja sources.md
 
 Objetivo observável (12 semanas): ao fim, vou conseguir resolver problemas novos de Python (decisão, repetição, funções, listas e dicionários) sem ajuda, explicar e defender cada solução com o termo técnico, e vou mostrar isso com: APOL 1 e APOL 2 de Lógica ≥ 80, a discursiva da prova mista ≥ 70 e um miniprojeto em Python (módulo do bot de WhatsApp) defendido na semana 12.
 Objetivo de fundo do semestre: passar nas 4 matérias com média ≥ 70.
 
 Local de estudo: computador (celular longe, em Não perturbe); no celular só cartões e caça ao bug.
-Semana (desde 12/11): 1 matéria por dia, das 8h às 10h · seg Web · ter Lógica · qua Produção Textual · qui Formação em EaD · sex Lógica. Esta semana: qui 12 Lógica Aula 1 (feito o Tema 1 pela apostila; o AVA deu erro 404 na videoaula) · sex 13 EaD Aula 1 · seg 16 Produção Textual Aula 1 · ter 17 Lógica: resto da Aula 1 (videoaula teórica + Temas 2 a 5) · sex 20 Lógica Aula 2.
-Tempo (versão anterior): sessões Ágora de Lógica na terça e na sexta, das 8h às 9h50 (formato de 60 min do modo atenção dentro dos 2 blocos); cartões FSRS no ônibus (11h15, de segunda a sexta); supervisão no domingo às 9h (dentro da revisão semanal). As outras 3 matérias seguem a rotina normal do caderno.
+Semana (desde 17/11; manhã 8h–10h · tarde 14h–15h):
+- seg: Web · Lógica (cartões + problemas graduados do conteúdo de sexta)
+- ter: Lógica (sessão Ágora, conteúdo novo) · Formação em EaD
+- qua: Produção Textual · Formação em EaD
+- qui: BUSCA DE EMPREGO (sugestão: 9h–12h; vagas e candidaturas) · sem estudo
+- sex: Lógica (sessão Ágora, problema-desafio ou caso) · supervisão socrática + revisão semanal + cópia para o Drive
+- sáb: BUSCA DE EMPREGO (sugestão: 9h–12h; currículo, LinkedIn, portfólio, preparação para entrevistas) · sem estudo
+- dom: FOLGA
+Cartões FSRS (até 8): no começo da sessão da tarde, de segunda a sexta (não há mais ônibus). Total: cerca de 15 h de estudo por semana (antes: 10 h).
+Esta semana: ter 17 Lógica: resto da Aula 1 (videoaula teórica + Temas 2 a 5) · qua 18 Produção Textual · sex 20 Lógica Aula 2 · EaD Aula 1 (pendente desde 13/11) na ter 17 ou na qua 18 à tarde.
+Semana antiga (12/11 a 16/11): 1 matéria por dia, das 8h às 10h · seg Web · ter Lógica · qua Produção Textual · qui Formação em EaD · sex Lógica; cartões no ônibus às 11h15; supervisão no domingo às 9h; folga no sábado.
 Datas-chave: APOL 1 de 16/11 a 14/12 (meta: 06/12) · APOL 2 de 14/12 a 18/01 (meta: 03/01) · prova mista no polo de 25/01 a 01/03/27 (AGENDAR) · Natal: 25/12.
-Cópia no Drive (faculdade/5. 🧠 Ágora): o Diário do Ágora é atualizado a cada sessão; os arquivos .md/.csv são substituídos TODO DOMINGO na revisão (autorizado pelo aluno em 10/11: apagar as cópias antigas e subir as novas).
+Cópia no Drive (faculdade/5. 🧠 Ágora): o Diário do Ágora é atualizado a cada sessão; os arquivos .md/.csv são substituídos TODA SEXTA na revisão (até 16/11: todo domingo) (autorizado pelo aluno em 10/11: apagar as cópias antigas e subir as novas).
 Discute com: só o Claude. Feedback externo pelo menos 1 vez por mês: tutoria do AVA ou fórum da disciplina.
 
-Diagnóstico (data, formato, atraso da evocação): PENDENTE — formato de 3 dias (obrigatório no modo atenção). Proposta: Dia 1 = dom 15/11, 9h (B0–B3) · Dia 2 = seg 16/11, 8h (B6 com 24 h + B4 + B7) · Dia 3 = ter 17/11, 8h (B5 + B8 + B9).
+Diagnóstico (data, formato, atraso da evocação): PENDENTE — formato de 3 dias (obrigatório no modo atenção). A proposta de 15 a 17/11 não aconteceu. Nova proposta, nas sessões da tarde: Dia 1 = seg 23/11, 14h (B0–B3) · Dia 2 = ter 24/11, 14h (B6 com 24 h + B4 + B7) · Dia 3 = qua 25/11, 14h (B5 + B8 + B9).
   Leitura _ · Memória _ · Lógica _ · Problemas _ · Escrita _ · Explicação _ · Metacognição _ · Atenção _ → média _ → nível _
 Reforços (dimensões ≤ 1,5): — | Regra adaptativa ativa: (10/11) recuperação < 60% → metade de conteúdo novo e o dobro de recuperação · (11/11) 2 sessões perdidas → recomeçar com a versão de 30 min + PROTOCOLO DE FOCO: ritual de início às 7h55, celular em Não perturbe, 1 tarefa por bloco de 20 min, "começar"/"feito" com o Claude (fica comigo), lista do depois, planos se-então, lembretes automáticos do Claude às 7h55 e 9h00. Nenhuma (nível provisório: Intermediário até o diagnóstico)
 
@@ -38,4 +47,4 @@ Pontos de partida conhecidos (do caderno de estudos, 06/11 a 09/11):
 | 11 | 19/01–25/01 | Integração: projeto | Miniprojeto em Python (módulo do bot de WhatsApp) | O próprio projeto diante de um usuário real | Relatório de progresso + feedbacks recebidos |
 | 12 | 26/01–01/02 | Defesa e metacognição final | Defesa do projeto + diagnóstico final + agendar e fazer a prova mista | Pergunta de defesa inesperada | Relatório final com dados (~560) |
 
-Ritmo semanal ajustado (porque Lógica divide a semana com outras 3 matérias): ter = problemas graduados do conteúdo novo · sex = problema-desafio ou caso (alternando) · dom 9h = supervisão socrática + revisão semanal · sáb = folga · cartões no ônibus de segunda a sexta.
+Ritmo semanal ajustado (desde 17/11; Lógica divide a semana com outras 3 matérias): seg à tarde = problemas graduados do conteúdo de sexta · ter de manhã = conteúdo novo + problemas graduados · sex de manhã = problema-desafio ou caso (alternando) · sex à tarde = supervisão socrática + revisão semanal · qui e sáb = busca de emprego · dom = folga · cartões no começo da sessão da tarde, de segunda a sexta.
