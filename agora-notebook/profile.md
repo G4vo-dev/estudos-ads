@@ -1,5 +1,5 @@
 # ÁGORA — Perfil e plano
-Início: 2026-11-10 (onboarding em 2026-11-09) | Semana atual: 2 | Dia: 1 | Folga: domingo (dia inteiro, sem estudo; desde 17/11) | Busca de emprego: quinta e sábado (sem estudo; cartões opcionais) | Idioma: português (BR) | Agendador: fsrs
+Início: 2026-11-10 (onboarding em 2026-11-09) | Semana atual: 2 | Dia: 1 | Folga: domingo (dia inteiro, sem estudo; desde 17/11) | Busca de emprego: só sábado, 9h–12h (desde 19/11, a pedido do aluno; antes: quinta e sábado) | Idioma: português (BR) | Agendador: fsrs
 Modo atenção: ligado (a pedido do aluno, desde 11/11: BLOCO ÚNICO de 2h, das 8h às 10h, por matéria, com check-in e pausa de 5 min a cada ~30 min e parada obrigatória às 10h; melhor janela de foco: 8h–10h. Desde 17/11, mais uma sessão de 60 min à tarde, das 14h às 15h, no formato de 60 min do modo atenção, só nos dias de estudo. Teto do dia: 180 min)
 Perfil: universitário EAD (ADS, Uninter); saiu do emprego no laboratório em nov/2026 e procura estágio em back-end (antes: escala 6x1) | Matéria-âncora: Lógica de Programação e Algoritmos (952837), em Python, com o Prof. Bruno Kostiuk | Materiais: veja sources.md
 
@@ -11,11 +11,11 @@ Semana (desde 17/11; manhã 8h–10h · tarde 14h–15h):
 - seg: Web · Lógica (cartões + problemas graduados do conteúdo de sexta)
 - ter: Lógica (sessão Ágora, conteúdo novo) · Formação em EaD
 - qua: Produção Textual · Formação em EaD
-- qui: BUSCA DE EMPREGO (sugestão: 9h–12h; vagas e candidaturas) · sem estudo
+- qui (desde 19/11): Web, 2ª sessão (pontos fracos + próxima aula) · Produção Textual, 2ª sessão
 - sex: Lógica (sessão Ágora, problema-desafio ou caso) · supervisão socrática + revisão semanal + cópia para o Drive
-- sáb: BUSCA DE EMPREGO (sugestão: 9h–12h; currículo, LinkedIn, portfólio, preparação para entrevistas) · sem estudo
+- sáb: BUSCA DE EMPREGO, 9h–12h (vagas, currículo ajustado, candidaturas; LinkedIn e portfólio) · sem estudo
 - dom: FOLGA
-Cartões FSRS (até 8): no começo da sessão da tarde, de segunda a sexta (não há mais ônibus). Total: cerca de 15 h de estudo por semana (antes: 10 h).
+Cartões FSRS (até 8): no começo da sessão da tarde, de segunda a sexta (não há mais ônibus). Total: cerca de 18 h de estudo por semana (antes: 10 h). Qui 19/11: cartões 8h07 · PT Aula 3 8h45–10h · EaD (teste da Aula 2 + Aula 3) 14h–15h.
 Esta semana: ter 17 à tarde EaD Aula 1 (pendente desde 13/11; a Lógica da manhã não aconteceu) · Lógica Aula 1 CONCLUÍDA pelo aluno (videoaula e Temas 2 a 5 vistos sem registro; avisou em 17/11) · ter 17 às 15h15 sessão extra de Lógica (a pedido do aluno): cartões atrasados + recuperação dos Temas 2 a 5 em formato APOL + pseudocódigo e fluxograma · qua 18 de manhã Produção Textual, à tarde EaD Aula 2 · sex 20 de manhã Lógica Aula 2, Temas 1 a 3 (ambientes, print e operadores, variáveis e tipos) · ter 24 de manhã Aula 2, Temas 4 e 5 (strings, input() e casting) + exercícios 2.1 a 2.4 (material recebido em 17/11, no Drive) · sex 20 Lógica Aula 2 (feriado da Consciência Negra, mas mantido).
 Agenda do Google atualizada em 17/11 com esta rotina (a rotina antiga de 9h–10h30 e a busca de emprego das 14h nos dias úteis foram encerradas em 17/11; o exercício de seg/qua/sex às 17h foi mantido). Diagnóstico marcado na agenda: 23, 24 e 25/11 às 14h (sem EaD nesses dias).
 Semana antiga (12/11 a 16/11): 1 matéria por dia, das 8h às 10h · seg Web · ter Lógica · qua Produção Textual · qui Formação em EaD · sex Lógica; cartões no ônibus às 11h15; supervisão no domingo às 9h; folga no sábado.
@@ -48,4 +48,4 @@ Pontos de partida conhecidos (do caderno de estudos, 06/11 a 09/11):
 | 11 | 19/01–25/01 | Integração: projeto | Miniprojeto em Python (módulo do bot de WhatsApp) | O próprio projeto diante de um usuário real | Relatório de progresso + feedbacks recebidos |
 | 12 | 26/01–01/02 | Defesa e metacognição final | Defesa do projeto + diagnóstico final + agendar e fazer a prova mista | Pergunta de defesa inesperada | Relatório final com dados (~560) |
 
-Ritmo semanal ajustado (desde 17/11; Lógica divide a semana com outras 3 matérias): seg à tarde = problemas graduados do conteúdo de sexta · ter de manhã = conteúdo novo + problemas graduados · sex de manhã = problema-desafio ou caso (alternando) · sex à tarde = supervisão socrática + revisão semanal · qui e sáb = busca de emprego · dom = folga · cartões no começo da sessão da tarde, de segunda a sexta.
+Ritmo semanal ajustado (desde 17/11; Lógica divide a semana com outras 3 matérias): seg à tarde = problemas graduados do conteúdo de sexta · ter de manhã = conteúdo novo + problemas graduados · sex de manhã = problema-desafio ou caso (alternando) · sex à tarde = supervisão socrática + revisão semanal · sáb = busca de emprego · dom = folga · cartões no começo da sessão da tarde, de segunda a sexta.
