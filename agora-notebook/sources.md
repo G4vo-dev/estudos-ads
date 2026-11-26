@@ -8,6 +8,7 @@
 | S5 | Resumos da Web Aula 1 e da Aula Prática 1 (Python) | anotações próprias | aluno + Claude | pt | Drive: faculdade/0. 📝 anotações | pré-requisitos de Python (input, conversão, precedência, tipos de erro) | Material da matéria de Web, usado como base |
 | S6 | Apostila e slides da Aula 1 (Prof. Vinicius Pozzobon Borin) | apostila + slides | Uninter, Lógica (952837) | pt | Drive: faculdade/ (SistemaRepositorioPublico.pdf, slides_Aula1) · resumo em 0. 📝 anotações | Aula 1, Temas 1 a 5 → S1 | Enviados em 17/11; resumo com as pegadinhas do registro de erros |
 | S7 | Apostila e slides da Aula 2 | apostila + slides | Uninter, Lógica (952837) | pt | Drive: faculdade/2. 🐍 Lógica de Programação | Aula 2: ambientes, print e operadores, variáveis e tipos, strings, input() e casting, exercícios 2.1 a 2.4 → S2 | Enviados em 17/11; os exercícios 2.1 a 2.4 têm a resolução logo abaixo na apostila: esconder ao usar como problema |
+| S8 | Resumo de revisão — PT Aulas 1 a 3 (gráficos, tabelas e fluxogramas) | anotações próprias | Claude, a partir dos slides 'Aula 1' de PT | pt | Drive: faculdade/0. 📝 anotações | APOL 1 de PT | Feito em 26/11 a pedido do aluno; listas exatas do slide + pegadinhas |
 
 ## Lacunas
 - Aulas 1 e 2 recebidas em 17/11 (S6, S7). Faltam as Aulas 3 a 6: pedir ao aluno antes de cada aula.
