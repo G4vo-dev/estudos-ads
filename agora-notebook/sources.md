@@ -11,6 +11,7 @@
 | S8 | Resumo de revisão — PT Aulas 1 a 3 (gráficos, tabelas e fluxogramas) | anotações próprias | Claude, a partir dos slides 'Aula 1' de PT | pt | Drive: faculdade/0. 📝 anotações | APOL 1 de PT | Feito em 26/11 a pedido do aluno; listas exatas do slide + pegadinhas |
 
 ## Lacunas
+- PT: falta o livro-base 'Comunicação e expressão' (LEÓN et al. / ILHESCA et al., InterSaberes, Biblioteca Virtual Pearson). A APOL 1 de PT (27/11) cobrou só ele; os slides de gráficos, tabelas e fluxogramas não caíram. O plano de ensino de PT (Drive, pasta 3) lista coesão, coerência, gêneros (e-mail, carta, ofício, ata, relatório) e interpretação de texto.
 - Aulas 1 e 2 recebidas em 17/11 (S6, S7). Faltam as Aulas 3 a 6: pedir ao aluno antes de cada aula.
 
 ## Conjunto reservado (provas antigas e testes corrigidos: não usar antes da S12)
